@@ -1,0 +1,13 @@
+Alekseev
+Pavlova
+Barchenkov
+Gorbachova
+Ivshina
+Korneva
+Korobeynikova
+Kuznetsov
+Muhamadiev
+Nafikov
+Zadorov
+Pishikova
+sort < laba1.txt
